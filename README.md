@@ -1,4 +1,4 @@
-# This_is_my_test_website_to_showcase_my_work
+# This is my test website to showcase my work
 ## Home Page: A professional landing page with a welcoming overview and clear navigation guidance.
 ## About Me: This page will detail your education, professional qualifications, skills, and work experience, drawing directly from your CV. I'll use a Chart.js bar chart to visually represent your key technical skills.
 ## Projects: A portfolio showcase of your projects. Since you haven't provided specific project details yet, I'll use placeholder content that aligns with your experience (e.g., CRM solutions, analytics dashboards, mobile apps). You can easily update these later.
